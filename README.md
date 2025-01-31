@@ -21,3 +21,10 @@
 ![Alt text](./passwd.png "Optional title")
 
 # Não consegui rodar clonando o facebook mas consegui com o google!
+
+![Alt text](./1.png "Optional title")
+![Alt text](./2.png "Optional title")
+![Alt text](./3.png "Optional title")
+![Alt text](./4.png "Optional title")
+![Alt text](./5.png "Optional title")
+
